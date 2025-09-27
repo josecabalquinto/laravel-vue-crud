@@ -43,7 +43,7 @@ Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/laravel-vue-crud.git
+git clone https://github.com/josecabalquinto/laravel-vue-crud.git
 cd laravel-vue-crud
 ```
 
