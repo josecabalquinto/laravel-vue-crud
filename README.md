@@ -205,22 +205,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Give a ⭐️ if this project helped you!
 
----
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### User Management
-![User List](screenshots/user-list.png)
-
-### Create/Edit User
-![User Form](screenshots/user-form.png)
-
-> **Note**: Add actual screenshots to the `screenshots/` directory in your repository.
-
----
 
 <div align="center">
   <sub>Built with ❤️ using Laravel & Vue.js</sub>
