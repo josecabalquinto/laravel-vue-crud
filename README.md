@@ -209,4 +209,3 @@ Give a ⭐️ if this project helped you!
 <div align="center">
   <sub>Built with ❤️ using Laravel & Vue.js</sub>
 </div>
->>>>>>> b95dde75448a55f71d2d73f669e60435167372d0
